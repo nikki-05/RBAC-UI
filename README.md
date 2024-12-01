@@ -1,4 +1,7 @@
 ## Hello 👋
+# Glimpse of the UI
+![Image](https://raw.githubusercontent.com/nikki-05/RBAC-UI/refs/heads/main/Snap.png)
+
 # RBAC-UI
 Role-Based Access Control User Interface 
 This project provides a user-friendly interface for managing web application role-based access control (RBAC). It allows administrators to define user roles, assign permissions, and manage access to various features based on these roles. The UI facilitates creating, modifying, and removing roles and permissions, ensuring that users have appropriate access based on their responsibilities.
